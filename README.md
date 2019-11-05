@@ -1,5 +1,23 @@
 # derptest
 
-Mrs. Damerel went back into the house with a countenance much less placid than that of her husband. I scarcely know why it is that the contrast of perfect repose and enjoyment with anxiety, work, and care should irritate the worker as it invariably does; but here indeed there was reason enough; for Mrs. Damerel felt that the two people luxuriating in total absence of care on this delightful morning ought to have taken a considerable share with her in her labors and lightened the burden she was now obliged to bear alone. This mingled a sharpness of feeling with her toils. People who interpret human nature coarsely—and they are, perhaps, the majority—would have said that Mrs. Damerel was jealous of her husband’s preference for Rose’s society, and this would have been a total and vulgar mistake; but she had in her mind a feeling which it is difficult to explain, which for the moment made her irritation with Rose more strong than her irritation with Rose’s father. He was, in the first place, a man—grand distinction, half contemptuous, half respectful, with which women of Mrs. Damerel’s age (I don’t say young women often do it, at least consciously—except in the case of their fathers and brothers) account for and make up their minds to so many things. I am not attempting to account for this sentiment, which is so similar to that with which men in their turn regard women; I only acknowledge its existence. He was a man, brought up as all men are (I still quote Mrs. Damerel’s thoughts, to which she seldom or never gave expression), to think of themselves first, and expect everything to give in to them. But Rose had none of these privileges. What her mother as a woman had to take upon her, Rose had an equal right to take too. Mrs. Damerel herself could not forget, though everybody else did, that she had been a Rose too, in her proper person; the time even since that miraculous period was not so far off to her as to the others; but before she was Rose’s age she had been married, and had already become, to some extent, Mr. Damerel’s shield and buckler against the world and its annoyances. And here was Rose growing up as if she, instead of being a woman as nature made her, was herself one of the privileged class, to whom women are the ministers. This annoyed Mrs. Damerel more, perhaps, than the facts justified; it gave her a sense of injured virtue as well as feeling. It would be the ruin of the girl—it was wrong to let her get into such ways. The mother was angry, which is always painful and aggravates everything. She was too proud to struggle with her daughter, or to exact help which was not freely given; for Rose was no longer a child to be sent hither and thither and directed what to do. And Mrs. Damerel was no more perfect than Rose was—she had her own difficulties of temper like other people. This was one of them—that she drew back within herself when she felt her appeal refused or even left without response. She went in with a little scorn, a little pride, a good deal of anger and more of mortification. “I must do everything myself, it appears,” she said, with a swelling of the heart which was very natural, I think. After the sun on the lawn, it was very warm in-doors and the school-room was very{13} noisy indeed by the time she had got rid of the applicants in the hall, one of whom (most respectful and indeed obsequious, and perfectly willing to accept her excuses, but yet a dun notwithstanding) had come to say that he had many heavy payments to make up, etc.—and if Mrs. Damerel could oblige him—Mrs. Damerel could not oblige him, but he was very civil and full of apologies for troubling her.
-
-[link](/next/index.md)
+ Incident on 2019-11-05 13:42 UTC
+Resolved - This incident has been resolved.
+Nov 5, 20:44 UTC
+Update - We are continuing to monitor as the backlog clears. Users may see delays in search results.
+Nov 5, 20:05 UTC
+Update - We are back to working through our backlog. Users should see webhook delivery delays as we recover.
+Nov 5, 18:26 UTC
+Update - Despite our mitigation efforts, we are now experiencing a service interruption.
+Nov 5, 18:09 UTC
+Update - Engineers have identified contributing factors to the backlog and have begun their mitigation work.
+Nov 5, 17:38 UTC
+Update - We are continuing to investigate and closely monitor queue sizes.
+Nov 5, 16:36 UTC
+Update - We are continuing to investigate higher than normal queue backlogs.
+Nov 5, 15:31 UTC
+Update - We are continuing to monitor higher than normal queue backlogs.
+Nov 5, 14:44 UTC
+Update - Queue backlogs are currently also causing delays in merging of PRs. We continue to investigate.
+Nov 5, 13:48 UTC
+Investigating - Currently investigating increase in queue backlogs affecting Pages builds and some webhooks deliveries.
+Nov 5, 13:42 UTC
